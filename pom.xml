@@ -16,10 +16,10 @@
 	<name>Black Pepper Support Spring Transaction Test</name>
 	
 	<scm>
-		<connection>scm:git:git@codebasehq.com:blackpepper/black-pepper-support/bp-support-spring-tx-test.git</connection>
-		<developerConnection>scm:git:git@codebasehq.com:blackpepper/black-pepper-support/bp-support-spring-tx-test.git</developerConnection>
+		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-support-spring-tx-test.git</connection>
+		<developerConnection>scm:git:git@github.com:BlackPepperSoftware/bp-support-spring-tx-test.git</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://blackpepper.codebasehq.com/projects/black-pepper-support/repositories/bp-support-spring-tx-test</url>
+		<url>https://github.com/BlackPepperSoftware/bp-support-spring-tx-test</url>
 	</scm>
 
 	<dependencies>
