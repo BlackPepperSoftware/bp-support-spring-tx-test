@@ -1,2 +1,2 @@
 # bp-support-spring-tx-test
-Support for working with Spring Transaction.
+Support for testing with Spring Transaction.
