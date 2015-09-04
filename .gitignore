@@ -1,0 +1,15 @@
+# Eclipse 
+.checkstyle
+.classpath
+.project
+.settings
+
+# Maven 
+target
+
+# Gedit 
+*~
+*.swp
+
+# Vagrant
+.vagrant
