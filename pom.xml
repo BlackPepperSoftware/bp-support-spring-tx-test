@@ -26,7 +26,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>uk.co.blackpepper.support</groupId>
 	<artifactId>bp-support-spring-tx-test</artifactId>
-	<version>1.1.0-SNAPSHOT</version>
+	<version>1.1.0</version>
 
 	<name>Black Pepper Support Spring Transaction Test</name>
 	<description>Support for testing with Spring Transaction.</description>
@@ -56,7 +56,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-support-spring-tx-test.git</connection>
 		<developerConnection>scm:git:git@github.com:BlackPepperSoftware/bp-support-spring-tx-test.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>1.1.0</tag>
 		<url>https://github.com/BlackPepperSoftware/bp-support-spring-tx-test</url>
 	</scm>
 
